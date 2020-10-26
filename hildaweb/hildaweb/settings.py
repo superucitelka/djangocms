@@ -179,7 +179,11 @@ INSTALLED_APPS = [
     'djangocms_snippet',
     'djangocms_googlemap',
     'djangocms_video',
-    'hildaweb'
+    'hildaweb',
+    'absolute',
+    'aldryn_forms',
+    'aldryn_forms.contrib.email_notifications',
+    'emailit',
 ]
 
 LANGUAGES = (
