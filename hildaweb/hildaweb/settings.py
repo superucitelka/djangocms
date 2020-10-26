@@ -180,10 +180,21 @@ INSTALLED_APPS = [
     'djangocms_googlemap',
     'djangocms_video',
     'hildaweb',
+ # Instalace Aldryn Forms   
     'absolute',
     'aldryn_forms',
     'aldryn_forms.contrib.email_notifications',
     'emailit',
+ # Instalace Aldryn News & Blog
+    'aldryn_apphooks_config',
+    'aldryn_categories',
+    'aldryn_common',
+    'aldryn_newsblog',
+    'aldryn_people',
+    'aldryn_translation_tools',
+    'parler',
+    'sortedm2m',
+    'taggit',   
 ]
 
 LANGUAGES = (
